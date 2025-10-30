@@ -1,2 +1,6 @@
-# DSA-WITH-CPP
-🚀This repository contains my Data Structures and Algorithms (DSA) learning journey, organized day by day. Each folder represents one day’s practice, covering concepts from basic to advanced — including arrays, strings, linked lists, stacks, queues, trees, graphs, dynamic programming, and more. 💻✨
+💻 A daily learning repository to master Data Structures and Algorithms using C++ — from fundamentals to advanced concepts with clean, structured code and practical examples. ⚡📘
+
+📖 Daily Progress:
+
+🗓️ Day 1 : Basics of C++
+Introduction to the C++ environment, syntax, and writing your first “Hello World” program.
