@@ -11,3 +11,5 @@ Today’s focus was on understanding the basic building blocks of any C++ progra
 ## Day 3 – Conditional Statement
 Focused on mastering conditional logic in programming — the foundation of decision-making in DSA.
 🧠 Topics Covered:if, else if, else statements,Nested conditions,Ternary operator
+##Day 4 - Loops
+Today’s focus: understanding and applying different types of loops in C++ for efficient repetition and iteration.
