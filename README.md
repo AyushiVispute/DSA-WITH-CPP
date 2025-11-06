@@ -18,5 +18,6 @@ Today’s focus: understanding and applying different types of loops in C++ for 
 ## Day 5-Patterns
 Practiced advanced pattern printing in C++, including the butterfly pattern, to strengthen and master loop concepts.
 
-
+## Day 6-Functions
+Learned and practiced function concepts in C++, including declaration, definition, calling, and return types.
 
