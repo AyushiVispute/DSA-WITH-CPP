@@ -21,3 +21,6 @@ Practiced advanced pattern printing in C++, including the butterfly pattern, to 
 ## Day 6-Functions
 Learned and practiced function concepts in C++, including declaration, definition, calling, and return types.
 
+## Day 7-Binary-No-System\
+learned Binary Number System and conversion concepts
+
