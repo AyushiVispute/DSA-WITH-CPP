@@ -21,6 +21,8 @@ Practiced advanced pattern printing in C++, including the butterfly pattern, to 
 ## Day 6-Functions
 Learned and practiced function concepts in C++, including declaration, definition, calling, and return types.
 
-## Day 7-Binary-No-System\
+## Day 7-Binary-No-System
 learned Binary Number System and conversion concepts
 
+## Day 8-Pointers
+Today I learned how pointers store memory addresses and how to use the * and & operators to access and modify values. Practiced pointer arithmetic and pointer usage in function parameters.
