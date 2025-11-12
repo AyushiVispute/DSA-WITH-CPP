@@ -26,3 +26,6 @@ learned Binary Number System and conversion concepts
 
 ## Day 8-Pointers
 Today I learned how pointers store memory addresses and how to use the * and & operators to access and modify values. Practiced pointer arithmetic and pointer usage in function parameters.
+
+## Day 9-Array part-1
+Arrays are the most basic and essential data structures in programming. They store multiple elements of the same type in a single variable, using contiguous memory locations.
