@@ -29,3 +29,5 @@ Today I learned how pointers store memory addresses and how to use the * and & o
 
 ## Day 9-Array part-1
 Arrays are the most basic and essential data structures in programming. They store multiple elements of the same type in a single variable, using contiguous memory locations.
+
+## Day 10-Array part-2
