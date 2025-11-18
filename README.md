@@ -28,6 +28,6 @@ learned Binary Number System and conversion concepts
 Today I learned how pointers store memory addresses and how to use the * and & operators to access and modify values. Practiced pointer arithmetic and pointer usage in function parameters.
 
 ## Day 9-Array part-1
-Arrays are the most basic and essential data structures in programming. They store multiple elements of the same type in a single variable, using contiguous memory locations.
+Basic array operations in C++ including creation, input/output, finding largest value, linear & binary search, reversing an array, and understanding pointer arithmetic. Perfect introduction to working with arrays in DSA.
 
 ## Day 10-Array part-2

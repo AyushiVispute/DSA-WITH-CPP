@@ -20,7 +20,7 @@ int main(){
 	return 0;
 	
 }
-output:
-Enter length of array:5
-1 2 3 4 5
-1,2,3,4,5,
+// output:
+// Enter length of array:5
+// 1 2 3 4 5
+// 1,2,3,4,5,
