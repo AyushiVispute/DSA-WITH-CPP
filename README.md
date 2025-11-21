@@ -31,3 +31,7 @@ Today I learned how pointers store memory addresses and how to use the * and & o
 Basic array operations in C++ including creation, input/output, finding largest value, linear & binary search, reversing an array, and understanding pointer arithmetic. Perfect introduction to working with arrays in DSA.
 
 ## Day 10-Array part-2
+This module continues the array concepts with more operations, problem-solving techniques, and interview-oriented questions.
+## Day 11-Sorting Algorithm
+Today’s focus is on Sorting Algorithms – techniques used to arrange data in a logical order (ascending/descending).
+Sorting is one of the most important fundamentals in DSA.
