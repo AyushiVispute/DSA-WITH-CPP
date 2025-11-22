@@ -35,3 +35,9 @@ This module continues the array concepts with more operations, problem-solving t
 ## Day 11-Sorting Algorithm
 Today’s focus is on Sorting Algorithms – techniques used to arrange data in a logical order (ascending/descending).
 Sorting is one of the most important fundamentals in DSA.
+## Day 12-2D_Array
+This folder contains programs related to 2D Arrays in C++, focusing on creation, input/output, traversal, and matrix-based problems.
+1️⃣ creating_2D_Array.cpp  
+2️⃣ Input_output_2D_Array.cpp
+3️⃣ Spiral_Matrix.cpp
+4️⃣ Diagonal_matrix.cpp
