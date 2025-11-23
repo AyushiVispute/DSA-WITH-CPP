@@ -1,4 +1,4 @@
-💻 A daily learning repository to master Data Structures and Algorithms using C++ — from fundamentals to advanced concepts with clean, structured code and practical examples. ⚡📘
+💻 A daily learning repository to master Data Structures and Algorithms using C++ — from fundamentals to advanced concepts with clean, structured code and practical examples.⚡
 
 📖Daily Progress:
 
@@ -41,3 +41,6 @@ This folder contains programs related to 2D Arrays in C++, focusing on creation,
 2️⃣ Input_output_2D_Array.cpp
 3️⃣ Spiral_Matrix.cpp
 4️⃣ Diagonal_matrix.cpp
+
+## Day 13-2D_Array2
+leaning advanced of 2d Array like sorted_matrix,matrix_pointer,matrix_pointer_function
