@@ -44,3 +44,16 @@ This folder contains programs related to 2D Arrays in C++, focusing on creation,
 
 ## Day 13-2D_Array2
 leaning advanced of 2d Array like sorted_matrix,matrix_pointer,matrix_pointer_function
+
+# Day 14 – Char Arrays (C++)
+
+This folder contains basic programs related to character arrays and string operations in C++.  
+Each file demonstrates an important concept used in DSA and interview questions.
+ Files Included:
+- **Char_Data_Type.cpp** – Basics of char and ASCII values  
+- **Char_Array.cpp** – Introduction to character arrays and input  
+- **UpperCase_Char.cpp** – Convert string to uppercase  
+- **reverse_String.cpp** – Reverse a string using two pointers  
+- **Palindrome_String.cpp** – Check if a string is a palindrome  
+- **for_each_loop.cpp** – Using for-each loop with char arrays  
+- **valid_Anagram.cpp** – Check if two strings are anagrams  
