@@ -57,3 +57,6 @@ Each file demonstrates an important concept used in DSA and interview questions.
 - **Palindrome_String.cpp** – Check if a string is a palindrome  
 - **for_each_loop.cpp** – Using for-each loop with char arrays  
 - **valid_Anagram.cpp** – Check if two strings are anagrams  
+
+##Day 15
+ learned how creating dynamic Array and allocation,2D dynamic array and vector concept in detailed also solved question based on vector
