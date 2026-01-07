@@ -25,3 +25,4 @@ int main(){
 // output:
 // 1
 // 0
+//
