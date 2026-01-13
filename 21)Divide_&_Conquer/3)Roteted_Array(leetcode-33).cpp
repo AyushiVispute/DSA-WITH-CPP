@@ -14,16 +14,17 @@ int search(int arr[],int si,int ei,int target){
 	if(arr[si]<=arr[mid]){
 		if(arr[si]<=target && target<=arr[mid]){
 			return search(arr,si,mid-1,target);
-		}
+		}else{
 			return search(arr,mid+1,ei,target);
 		}
-	else{
+	}else{
 		if(arr[mid]<=target && target<=arr[ei]){
 			return search(arr,mid+1,ei,target);
 		}else{
 			return search(arr,si,mid-1,target);
 		}
 	}
+
 }
 
 
