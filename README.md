@@ -61,6 +61,3 @@ Each file demonstrates an important concept used in DSA and interview questions.
 ## Day 15
  learned how creating dynamic Array and allocation,2D dynamic array and vector concept in detailed also solved question based on vector
 
-## Day 16
-learned Binary no system
-
